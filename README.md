@@ -26,4 +26,4 @@
 
 - [OpenAI Translator](https://github.com/yetone/openai-translator): 基于ChatGPT的划词翻译及润色应用
 
-- [ChatGPT-Vercel](github.com/ourongxing/chatgpt-vercel): ChatGPT的Chatbot网站模板
+- [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel): ChatGPT的Chatbot网站模板
