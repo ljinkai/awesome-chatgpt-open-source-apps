@@ -2,6 +2,8 @@
 
 - [colorGPT](https://github.com/sonnylazuardi/colorGPT): 一个颜色实时获取的AI工具
 
+- [Markprompt](https://github.com/motifland/markprompt): 开源GPT-4平台，针对文件Markdown, Markdoc和MDX
+
 - [dalai](https://github.com/cocktailpeanut/dalai)：可以在本地运行起来的大数据模型
 
 - [myGPTReader](https://github.com/madawei2699/myGPTReader): 这是一个接入了AI的Slack机器人
