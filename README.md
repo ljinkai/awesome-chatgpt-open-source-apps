@@ -1,6 +1,10 @@
 # awesome-chatgpt-open-source-apps
 
+- [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt): Chrome扩展，允许用户使用他们的声音(语音识别)与ChatGPT交谈，并使用语音(文本到语音)听机器人的答案
+
 - [colorGPT](https://github.com/sonnylazuardi/colorGPT): 一个颜色实时获取的AI工具
+
+- [TweetGPT](https://github.com/yaroslav-n/tweetGPT): 在推特网页版中生成推文和回复
 
 - [Markprompt](https://github.com/motifland/markprompt): 开源GPT-4平台，针对文件Markdown, Markdoc和MDX
 
@@ -28,4 +32,8 @@
 
 - [OpenAI Translator](https://github.com/yetone/openai-translator): 基于ChatGPT的划词翻译及润色应用
 
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate): 双语网页翻译浏览器扩展
+
 - [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel): ChatGPT的Chatbot网站模板
+
+- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
