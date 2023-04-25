@@ -1,5 +1,7 @@
 # awesome-chatgpt-open-source-apps
 
+- [VLog](https://github.com/showlab/VLog): 将视频生成文档
+
 - [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt): Chrome扩展，允许用户使用他们的声音(语音识别)与ChatGPT交谈，并使用语音(文本到语音)听机器人的答案
 
 - [colorGPT](https://github.com/sonnylazuardi/colorGPT): 一个颜色实时获取的AI工具
